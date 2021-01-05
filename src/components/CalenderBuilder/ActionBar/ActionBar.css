@@ -1,0 +1,6 @@
+.actionBar {
+  text-align: center;
+}
+.actionBar > button {
+  margin: 5px;
+}
